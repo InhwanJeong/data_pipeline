@@ -15,7 +15,14 @@
     - 전체 추이
 
 ## 2. 요구사항 정의 & 분석
+- 유스케이스 정의
+![img.png](resource/usecase.png)
 
+- 사용하는 하드웨어 스펙
+  - AWS, t2 micro 
+    - CPU: 1 vCPU 
+    - RAM: 1GB Ram
+    - OS: Ubuntu, 22.04 LTS
 ### 데이터 수집
 [공공데이터 - 한국소비자원 소비자 위해정보](https://www.data.go.kr/data/3040719/fileData.do?recommendDataYn=Y)
 
