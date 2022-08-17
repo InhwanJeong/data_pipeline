@@ -16,6 +16,7 @@
 
 ## 2. 요구사항 정의 & 분석
 - 유스케이스 정의
+<br>
 ![img.png](resource/usecase.png)
 
 - 사용하는 하드웨어 스펙
@@ -27,6 +28,10 @@
 [공공데이터 - 한국소비자원 소비자 위해정보](https://www.data.go.kr/data/3040719/fileData.do?recommendDataYn=Y)
 
 ## 3. 설계
+- 웹 아키텍처 설계
+  - 참고: [[번역] Web Architecture 101](https://scvgoe.github.io/2018-12-25-%EB%B2%88%EC%97%AD-Web-Architecture-101/)
+<br>
+![img.png](resource/web architecture.png)
 
 ### DB 설계
 
