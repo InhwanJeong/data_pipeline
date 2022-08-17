@@ -30,8 +30,8 @@
 ## 3. 설계
 - 웹 아키텍처 설계
   - 참고: [[번역] Web Architecture 101](https://scvgoe.github.io/2018-12-25-%EB%B2%88%EC%97%AD-Web-Architecture-101/)
-<br>
-![img.png](resource/web architecture.png)
+
+![img.png](resource/web_architecture.png)
 
 ### DB 설계
 
